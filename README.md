@@ -3,6 +3,7 @@
 
 
 #### Architecture Diagram
+<img width="1449" height="319" alt="hudi excalidraw" src="https://github.com/user-attachments/assets/b3894508-b20c-4dd3-8c40-a7ad60256c0e" />
 
 
 ```sh
